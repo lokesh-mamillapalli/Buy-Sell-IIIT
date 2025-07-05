@@ -1,66 +1,6 @@
-## Project Structure
+# Buy Sell @ IIITH
 
-```bash
-.bolt/
-    config.json
-.gitignore
-backend/
-    .env
-    middleware/
-        auth.js
-    models/
-        Item.js
-        Order.js
-        OrderHistory.js
-        User.js
-    package.json
-    routes/
-        auth.js
-        cart.js
-        items.js
-        orders.js
-        users.js
-    server.js
-frontend/
-    index.html
-    package.json
-    src/
-        App.jsx
-        components/
-            Navbar.css
-            Navbar.jsx
-            PrivateRoute.jsx
-        context/
-            AuthContext.jsx
-        index.css
-        main.jsx
-        pages/
-            AddItem.jsx
-            Cart.jsx
-            Dashboard.jsx
-            Deliveries.jsx
-            ItemDetails.jsx
-            Login.jsx
-            Orders.jsx
-            Profile.jsx
-            Register.jsx
-            SearchItems.jsx
-            Support.jsx
-            styling/
-                AddItem.css
-                Cart.css
-                Deliveries.css
-                ItemDetails.css
-                Login.css
-                Orders.css
-                Profile.css
-                Register.css
-                SearchItems.css
-                Support.css
-    vite.config.js
-README.md
-```
-
+This project was implemented primarily to cover all the functionalities outlined in [Questions.pdf](./Questions.pdf). As a result, the UI/UX may not be fully polished.
 
 ## Setup Instructions
 
