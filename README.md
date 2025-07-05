@@ -1,5 +1,4 @@
 # Buy Sell @ IIITH
-
 This project was implemented primarily to cover all the functionalities outlined in [Questions.pdf](./Questions.pdf). As a result, the UI/UX may not be fully polished.
 
 ## Setup Instructions
